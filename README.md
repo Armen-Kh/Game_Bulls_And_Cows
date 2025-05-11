@@ -33,22 +33,21 @@ The game ends when you guess the correct code or decide to give up.
 
 ## Installation
 1.  Clone the repository: 
-   git clone https://github.com/Armen-Kh/Game\_Bulls\_And\_Cows.git
-   cd Game\_Bulls\_And\_Cows
+   - `git clone https://github.com/Armen-Kh/Game_Bulls_And_Cows.git`
+   - `cd Game_Bulls_And_Cows`
 2.  Create a virtual environment (optional but recommended):
-   python3 -m venv env
-   source env/bin/activate   # On macOS/Linux
-   (env\Scripts\activate # On Windows)
+   - python3 -m venv env
+   - source env/bin/activate   # On macOS/Linux
+   - (env\Scripts\activate # On Windows)
 3.  Install dependencies:
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
 
 ________________________________________
 
 ## Running the Game
 1.	Navigate to the project directory:
-	cd Game_Bulls-And-Cows
+	- `cd Game_Bulls-And-Cows`
 2.	Run the game:
-	streamlit run game_visualization.py
+	- `streamlit run game_visualization.py`
 
 ________________________________________
-
