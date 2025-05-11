@@ -36,11 +36,11 @@ The game ends when you guess the correct code or decide to give up.
 	`git clone https://github.com/Armen-Kh/Game_Bulls_And_Cows.git`  
 	`cd Game_Bulls_And_Cows`
 2.  Create a virtual environment (optional but recommended):  
-	python3 -m venv env  
-	source env/bin/activate   # On macOS/Linux  
-	(env\Scripts\activate # On Windows)
+	`python3 -m venv env`  
+	`source env/bin/activate   # On macOS/Linuxi`  
+	`(env\Scripts\activate # On Windows)`
 3.  Install dependencies:  
-	pip install -r requirements.txt
+	`pip install -r requirements.txt`
 
 ________________________________________
 
